@@ -1,4 +1,4 @@
-# maahey_flutter_task
+# flutter_task
 
 A new Flutter project.
 
