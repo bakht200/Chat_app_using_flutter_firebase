@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>164775569652-gicuoof6qfq8479lpffktdanng60alug.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.164775569652-gicuoof6qfq8479lpffktdanng60alug</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBr9Ea13bzgqKQXvMCm2-d0qztV5QhEM44</string>
+	<key>GCM_SENDER_ID</key>
+	<string>164775569652</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.maaheyFlutterTask</string>
+	<key>PROJECT_ID</key>
+	<string>maahey-9acaf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maahey-9acaf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:164775569652:ios:0e538d0d087c0ee30d56a1</string>
+</dict>
+</plist>
